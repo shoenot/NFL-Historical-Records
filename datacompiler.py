@@ -21,6 +21,7 @@ MODERN_TEAM_NAMES = {"Chicago Cardinals": "Arizona Cardinals",
                      "Green Bay Packers": "Green Bay Packers",
                      "Houston Texans": "Houston Texans",
                      "Baltimore Colts": "Indianapolis Colts",
+                     "Indianapolis Colts": "Indianapolis Colts",
                      "Jacksonville Jaguars": "Jacksonville Jaguars",
                      "Dallas Texans": "Kansas City Chiefs",
                      "Kansas City Chiefs": "Kansas City Chiefs",
@@ -84,7 +85,7 @@ def main():
                           'SRS', 'OSRS', 'DSRS']]
     standings = standings.sort_values(by=['season', 'league'])
     standings = standings.reset_index(drop=True)
-    standings.to_csv(Path('./combined.csv'), index=False)
+    standings.to_csv(Path('./combined_records.csv'), index=False)
 
 if __name__ == "__main__":
     main()
