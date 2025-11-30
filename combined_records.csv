@@ -699,7 +699,7 @@ afl,1968,Oakland Raiders,Las Vegas Raiders,12.0,2.0,0.0,0.857,453.0,233.0,220.0,
 afl,1968,Kansas City Chiefs,Kansas City Chiefs,12.0,2.0,0.0,0.857,371.0,170.0,201.0,14.4,-0.4,14.0,3.8,10.1
 afl,1968,San Diego Chargers,Los Angeles Chargers,9.0,5.0,0.0,0.643,382.0,310.0,72.0,5.1,1.0,6.2,5.8,0.4
 afl,1968,Denver Broncos,Denver Broncos,5.0,9.0,0.0,0.357,255.0,404.0,-149.0,-10.6,1.7,-8.9,-2.9,-6.0
-afl,1968,Cincinnati Bengals,Cincinatti Bengals,3.0,11.0,0.0,0.214,215.0,329.0,-114.0,-8.1,1.8,-6.3,-6.5,0.1
+afl,1968,Cincinnati Bengals,Cincinnati Bengals,3.0,11.0,0.0,0.214,215.0,329.0,-114.0,-8.1,1.8,-6.3,-6.5,0.1
 nfl,1968,Dallas Cowboys,Dallas Cowboys,12.0,2.0,0.0,0.857,431.0,186.0,245.0,17.5,-3.7,13.8,8.4,5.5
 nfl,1968,New York Giants,New York Giants,7.0,7.0,0.0,0.5,294.0,325.0,-31.0,-2.2,-0.1,-2.4,0.0,-2.4
 nfl,1968,Washington Redskins,Washington Commanders,5.0,9.0,0.0,0.357,249.0,358.0,-109.0,-7.8,-0.5,-8.3,-3.1,-5.2
@@ -725,7 +725,7 @@ afl,1969,Oakland Raiders,Las Vegas Raiders,12.0,1.0,1.0,0.923,377.0,242.0,135.0,
 afl,1969,Kansas City Chiefs,Kansas City Chiefs,11.0,3.0,0.0,0.786,359.0,177.0,182.0,13.0,-1.1,11.9,3.5,8.4
 afl,1969,San Diego Chargers,Los Angeles Chargers,8.0,6.0,0.0,0.571,288.0,276.0,12.0,0.9,0.7,1.5,-0.5,2.0
 afl,1969,Denver Broncos,Denver Broncos,5.0,8.0,1.0,0.385,297.0,344.0,-47.0,-3.4,1.4,-2.0,1.0,-3.0
-afl,1969,Cincinnati Bengals,Cincinatti Bengals,4.0,9.0,1.0,0.308,280.0,367.0,-87.0,-6.2,2.0,-4.2,0.0,-4.2
+afl,1969,Cincinnati Bengals,Cincinnati Bengals,4.0,9.0,1.0,0.308,280.0,367.0,-87.0,-6.2,2.0,-4.2,0.0,-4.2
 nfl,1969,Dallas Cowboys,Dallas Cowboys,11.0,2.0,1.0,0.846,369.0,223.0,146.0,10.4,-3.5,6.9,2.5,4.4
 nfl,1969,Washington Redskins,Washington Commanders,7.0,5.0,2.0,0.583,307.0,319.0,-12.0,-0.9,-2.1,-3.0,-1.0,-2.0
 nfl,1969,New Orleans Saints,New Orleans Saints,5.0,9.0,0.0,0.357,311.0,393.0,-82.0,-5.9,-1.5,-7.3,0.1,-7.4
@@ -760,7 +760,7 @@ nfl,1970,Miami Dolphins,Miami Dolphins,10.0,4.0,0.0,0.714,297.0,228.0,69.0,4.9,-
 nfl,1970,New York Jets,New York Jets,4.0,10.0,0.0,0.286,255.0,286.0,-31.0,-2.2,-2.7,-4.9,-2.2,-2.7
 nfl,1970,Buffalo Bills,Buffalo Bills,3.0,10.0,1.0,0.231,204.0,337.0,-133.0,-9.5,-2.8,-12.3,-5.8,-6.5
 nfl,1970,Boston Patriots,New England Patriots,2.0,12.0,0.0,0.143,149.0,361.0,-212.0,-15.1,-0.7,-15.9,-9.1,-6.8
-nfl,1970,Cincinnati Bengals,Cincinatti Bengals,8.0,6.0,0.0,0.571,312.0,255.0,57.0,4.1,-3.5,0.5,1.2,-0.6
+nfl,1970,Cincinnati Bengals,Cincinnati Bengals,8.0,6.0,0.0,0.571,312.0,255.0,57.0,4.1,-3.5,0.5,1.2,-0.6
 nfl,1970,Cleveland Browns,Cleveland Browns,7.0,7.0,0.0,0.5,286.0,265.0,21.0,1.5,-0.9,0.6,0.5,0.1
 nfl,1970,Pittsburgh Steelers,Pittsburgh Steelers,5.0,9.0,0.0,0.357,210.0,272.0,-62.0,-4.4,-3.0,-7.4,-5.9,-1.5
 nfl,1970,Houston Oilers,Tennessee Titans,3.0,10.0,1.0,0.231,217.0,352.0,-135.0,-9.6,0.4,-9.2,-3.5,-5.8
@@ -789,7 +789,7 @@ nfl,1971,Buffalo Bills,Buffalo Bills,1.0,13.0,0.0,0.071,184.0,394.0,-210.0,-15.0
 nfl,1971,Cleveland Browns,Cleveland Browns,9.0,5.0,0.0,0.643,285.0,273.0,12.0,0.9,-0.6,0.3,1.1,-0.8
 nfl,1971,Pittsburgh Steelers,Pittsburgh Steelers,6.0,8.0,0.0,0.429,246.0,292.0,-46.0,-3.3,-0.3,-3.6,-1.8,-1.8
 nfl,1971,Houston Oilers,Tennessee Titans,4.0,9.0,1.0,0.308,251.0,330.0,-79.0,-5.6,-1.1,-6.7,-3.0,-3.8
-nfl,1971,Cincinnati Bengals,Cincinatti Bengals,4.0,10.0,0.0,0.286,284.0,265.0,19.0,1.4,-1.9,-0.5,-0.4,-0.1
+nfl,1971,Cincinnati Bengals,Cincinnati Bengals,4.0,10.0,0.0,0.286,284.0,265.0,19.0,1.4,-1.9,-0.5,-0.4,-0.1
 nfl,1971,Kansas City Chiefs,Kansas City Chiefs,10.0,3.0,1.0,0.769,302.0,208.0,94.0,6.7,-1.7,5.1,0.6,4.5
 nfl,1971,Oakland Raiders,Las Vegas Raiders,8.0,4.0,2.0,0.667,344.0,278.0,66.0,4.7,-1.0,3.7,4.8,-1.1
 nfl,1971,San Diego Chargers,Los Angeles Chargers,6.0,8.0,0.0,0.429,311.0,341.0,-30.0,-2.1,-1.9,-4.1,2.6,-6.6
@@ -814,7 +814,7 @@ nfl,1972,Buffalo Bills,Buffalo Bills,4.0,9.0,1.0,0.321,257.0,377.0,-120.0,-8.6,1
 nfl,1972,New England Patriots,New England Patriots,3.0,11.0,0.0,0.214,192.0,446.0,-254.0,-18.1,0.7,-17.4,-6.3,-11.1
 nfl,1972,Pittsburgh Steelers,Pittsburgh Steelers,11.0,3.0,0.0,0.786,343.0,175.0,168.0,12.0,-2.0,10.0,3.4,6.6
 nfl,1972,Cleveland Browns,Cleveland Browns,10.0,4.0,0.0,0.714,268.0,249.0,19.0,1.4,-1.1,0.3,-1.6,1.9
-nfl,1972,Cincinnati Bengals,Cincinatti Bengals,8.0,6.0,0.0,0.571,299.0,229.0,70.0,5.0,-0.9,4.1,1.2,3.0
+nfl,1972,Cincinnati Bengals,Cincinnati Bengals,8.0,6.0,0.0,0.571,299.0,229.0,70.0,5.0,-0.9,4.1,1.2,3.0
 nfl,1972,Houston Oilers,Tennessee Titans,1.0,13.0,0.0,0.071,164.0,380.0,-216.0,-15.4,2.4,-13.0,-7.1,-5.9
 nfl,1972,Oakland Raiders,Las Vegas Raiders,10.0,3.0,1.0,0.75,365.0,248.0,117.0,8.4,-0.3,8.0,5.0,3.0
 nfl,1972,Kansas City Chiefs,Kansas City Chiefs,8.0,6.0,0.0,0.571,287.0,254.0,33.0,2.4,0.2,2.6,0.4,2.2
@@ -838,7 +838,7 @@ nfl,1973,Buffalo Bills,Buffalo Bills,9.0,5.0,0.0,0.643,259.0,230.0,29.0,2.1,-1.7
 nfl,1973,New England Patriots,New England Patriots,5.0,9.0,0.0,0.357,258.0,300.0,-42.0,-3.0,-3.0,-6.0,-2.6,-3.4
 nfl,1973,New York Jets,New York Jets,4.0,10.0,0.0,0.286,240.0,306.0,-66.0,-4.7,1.3,-3.4,-1.8,-1.6
 nfl,1973,Baltimore Colts,Indianapolis Colts,4.0,10.0,0.0,0.286,226.0,341.0,-115.0,-8.2,-0.2,-8.4,-2.4,-5.9
-nfl,1973,Cincinnati Bengals,Cincinatti Bengals,10.0,4.0,0.0,0.714,286.0,231.0,55.0,3.9,-0.9,3.0,0.1,2.9
+nfl,1973,Cincinnati Bengals,Cincinnati Bengals,10.0,4.0,0.0,0.714,286.0,231.0,55.0,3.9,-0.9,3.0,0.1,2.9
 nfl,1973,Pittsburgh Steelers,Pittsburgh Steelers,10.0,4.0,0.0,0.714,347.0,210.0,137.0,9.8,-1.6,8.2,4.5,3.8
 nfl,1973,Cleveland Browns,Cleveland Browns,7.0,5.0,2.0,0.571,234.0,255.0,-21.0,-1.5,0.3,-1.2,-2.6,1.4
 nfl,1973,Houston Oilers,Tennessee Titans,1.0,13.0,0.0,0.071,199.0,447.0,-248.0,-17.7,1.0,-16.8,-4.4,-12.4
@@ -866,7 +866,7 @@ nfl,1974,New York Jets,New York Jets,7.0,7.0,0.0,0.5,279.0,300.0,-21.0,-1.5,-1.0
 nfl,1974,Baltimore Colts,Indianapolis Colts,2.0,12.0,0.0,0.143,190.0,329.0,-139.0,-9.9,1.3,-8.7,-4.6,-4.1
 nfl,1974,Pittsburgh Steelers,Pittsburgh Steelers,10.0,3.0,1.0,0.75,305.0,189.0,116.0,8.3,-1.5,6.8,2.3,4.5
 nfl,1974,Houston Oilers,Tennessee Titans,7.0,7.0,0.0,0.5,236.0,282.0,-46.0,-3.3,1.4,-1.9,-1.3,-0.6
-nfl,1974,Cincinnati Bengals,Cincinatti Bengals,7.0,7.0,0.0,0.5,283.0,259.0,24.0,1.7,0.5,2.2,1.9,0.2
+nfl,1974,Cincinnati Bengals,Cincinnati Bengals,7.0,7.0,0.0,0.5,283.0,259.0,24.0,1.7,0.5,2.2,1.9,0.2
 nfl,1974,Cleveland Browns,Cleveland Browns,4.0,10.0,0.0,0.286,251.0,344.0,-93.0,-6.6,2.4,-4.2,0.5,-4.7
 nfl,1974,Oakland Raiders,Las Vegas Raiders,12.0,2.0,0.0,0.857,355.0,228.0,127.0,9.1,-0.1,9.0,6.4,2.7
 nfl,1974,Denver Broncos,Denver Broncos,7.0,6.0,1.0,0.536,302.0,294.0,8.0,0.6,0.1,0.6,3.4,-2.8
@@ -891,7 +891,7 @@ nfl,1975,Buffalo Bills,Buffalo Bills,8.0,6.0,,0.571,420.0,355.0,65.0,4.6,2.4,7.1
 nfl,1975,New York Jets,New York Jets,3.0,11.0,,0.214,258.0,433.0,-175.0,-12.5,4.2,-8.3,-1.2,-7.1
 nfl,1975,New England Patriots,New England Patriots,3.0,11.0,,0.214,258.0,358.0,-100.0,-7.1,2.9,-4.3,-2.3,-2.0
 nfl,1975,Pittsburgh Steelers,Pittsburgh Steelers,12.0,2.0,,0.857,373.0,162.0,211.0,15.1,-0.9,14.2,5.4,8.8
-nfl,1975,Cincinnati Bengals,Cincinatti Bengals,11.0,3.0,,0.786,340.0,246.0,94.0,6.7,0.2,6.9,4.0,2.9
+nfl,1975,Cincinnati Bengals,Cincinnati Bengals,11.0,3.0,,0.786,340.0,246.0,94.0,6.7,0.2,6.9,4.0,2.9
 nfl,1975,Houston Oilers,Tennessee Titans,10.0,4.0,,0.714,293.0,226.0,67.0,4.8,1.6,6.4,1.2,5.2
 nfl,1975,Cleveland Browns,Cleveland Browns,3.0,11.0,,0.214,218.0,372.0,-154.0,-11.0,4.2,-6.8,-2.6,-4.2
 nfl,1975,Oakland Raiders,Las Vegas Raiders,11.0,3.0,,0.786,375.0,255.0,120.0,8.6,-1.8,6.8,5.5,1.3
@@ -918,7 +918,7 @@ nfl,1976,Miami Dolphins,Miami Dolphins,6.0,8.0,0.0,0.429,263.0,264.0,-1.0,-0.1,0
 nfl,1976,New York Jets,New York Jets,3.0,11.0,0.0,0.214,169.0,383.0,-214.0,-15.3,1.5,-13.8,-7.1,-6.8
 nfl,1976,Buffalo Bills,Buffalo Bills,2.0,12.0,0.0,0.143,245.0,363.0,-118.0,-8.4,-0.8,-9.2,-2.5,-6.7
 nfl,1976,Pittsburgh Steelers,Pittsburgh Steelers,10.0,4.0,0.0,0.714,342.0,138.0,204.0,14.6,0.8,15.3,5.7,9.6
-nfl,1976,Cincinnati Bengals,Cincinatti Bengals,10.0,4.0,0.0,0.714,335.0,210.0,125.0,8.9,1.2,10.1,5.0,5.1
+nfl,1976,Cincinnati Bengals,Cincinnati Bengals,10.0,4.0,0.0,0.714,335.0,210.0,125.0,8.9,1.2,10.1,5.0,5.1
 nfl,1976,Cleveland Browns,Cleveland Browns,9.0,5.0,0.0,0.643,267.0,287.0,-20.0,-1.4,-0.3,-1.7,0.7,-2.4
 nfl,1976,Houston Oilers,Tennessee Titans,5.0,9.0,0.0,0.357,222.0,273.0,-51.0,-3.6,1.9,-1.8,-2.7,1.0
 nfl,1976,Oakland Raiders,Las Vegas Raiders,13.0,1.0,0.0,0.929,350.0,237.0,113.0,8.1,0.4,8.5,6.3,2.2
@@ -946,7 +946,7 @@ nfl,1977,New England Patriots,New England Patriots,9.0,5.0,,0.643,278.0,217.0,61
 nfl,1977,Buffalo Bills,Buffalo Bills,3.0,11.0,,0.214,160.0,313.0,-153.0,-10.9,3.0,-7.9,-4.3,-3.7
 nfl,1977,New York Jets,New York Jets,3.0,11.0,,0.214,191.0,300.0,-109.0,-7.8,1.9,-5.9,-3.8,-2.0
 nfl,1977,Pittsburgh Steelers,Pittsburgh Steelers,9.0,5.0,,0.643,283.0,243.0,40.0,2.9,3.4,6.2,3.9,2.3
-nfl,1977,Cincinnati Bengals,Cincinatti Bengals,8.0,6.0,,0.571,238.0,235.0,3.0,0.2,2.0,2.2,0.6,1.6
+nfl,1977,Cincinnati Bengals,Cincinnati Bengals,8.0,6.0,,0.571,238.0,235.0,3.0,0.2,2.0,2.2,0.6,1.6
 nfl,1977,Houston Oilers,Tennessee Titans,8.0,6.0,,0.571,299.0,230.0,69.0,4.9,1.7,6.6,4.4,2.3
 nfl,1977,Cleveland Browns,Cleveland Browns,6.0,8.0,,0.429,269.0,267.0,2.0,0.1,2.4,2.5,2.4,0.1
 nfl,1977,Denver Broncos,Denver Broncos,12.0,2.0,,0.857,274.0,148.0,126.0,9.0,2.3,11.3,1.9,9.4
@@ -976,7 +976,7 @@ nfl,1978,Baltimore Colts,Indianapolis Colts,5.0,11.0,0.0,0.313,239.0,421.0,-182.
 nfl,1978,Pittsburgh Steelers,Pittsburgh Steelers,14.0,2.0,0.0,0.875,356.0,195.0,161.0,10.1,-1.9,8.2,2.6,5.6
 nfl,1978,Houston Oilers,Tennessee Titans,10.0,6.0,0.0,0.625,283.0,298.0,-15.0,-0.9,0.5,-0.4,-0.6,0.2
 nfl,1978,Cleveland Browns,Cleveland Browns,8.0,8.0,0.0,0.5,334.0,356.0,-22.0,-1.4,-0.6,-2.0,2.5,-4.5
-nfl,1978,Cincinnati Bengals,Cincinatti Bengals,4.0,12.0,0.0,0.25,252.0,284.0,-32.0,-2.0,0.7,-1.3,-2.7,1.3
+nfl,1978,Cincinnati Bengals,Cincinnati Bengals,4.0,12.0,0.0,0.25,252.0,284.0,-32.0,-2.0,0.7,-1.3,-2.7,1.3
 nfl,1978,Denver Broncos,Denver Broncos,10.0,6.0,0.0,0.625,282.0,198.0,84.0,5.3,-0.2,5.0,-1.9,6.9
 nfl,1978,Oakland Raiders,Las Vegas Raiders,9.0,7.0,0.0,0.563,311.0,283.0,28.0,1.8,0.9,2.6,1.6,1.1
 nfl,1978,Seattle Seahawks,Seattle Seahawks,9.0,7.0,0.0,0.563,345.0,358.0,-13.0,-0.8,0.5,-0.4,3.4,-3.7
@@ -1004,7 +1004,7 @@ nfl,1979,Baltimore Colts,Indianapolis Colts,5.0,11.0,,0.313,271.0,351.0,-80.0,-5
 nfl,1979,Pittsburgh Steelers,Pittsburgh Steelers,12.0,4.0,,0.75,416.0,262.0,154.0,9.6,2.3,11.9,6.8,5.1
 nfl,1979,Houston Oilers,Tennessee Titans,11.0,5.0,,0.688,362.0,331.0,31.0,1.9,2.4,4.4,2.9,1.4
 nfl,1979,Cleveland Browns,Cleveland Browns,9.0,7.0,,0.563,359.0,352.0,7.0,0.4,2.6,3.0,2.9,0.1
-nfl,1979,Cincinnati Bengals,Cincinatti Bengals,4.0,12.0,,0.25,337.0,421.0,-84.0,-5.3,3.9,-1.3,3.1,-4.4
+nfl,1979,Cincinnati Bengals,Cincinnati Bengals,4.0,12.0,,0.25,337.0,421.0,-84.0,-5.3,3.9,-1.3,3.1,-4.4
 nfl,1979,San Diego Chargers,Los Angeles Chargers,12.0,4.0,,0.75,411.0,246.0,165.0,10.3,1.5,11.8,6.0,5.7
 nfl,1979,Denver Broncos,Denver Broncos,10.0,6.0,,0.625,289.0,262.0,27.0,1.7,2.4,4.1,-1.6,5.7
 nfl,1979,Seattle Seahawks,Seattle Seahawks,9.0,7.0,,0.563,378.0,372.0,6.0,0.4,2.2,2.6,4.9,-2.3
@@ -1032,7 +1032,7 @@ nfl,1980,New York Jets,New York Jets,4.0,12.0,0.0,0.25,302.0,395.0,-93.0,-5.8,0.
 nfl,1980,Cleveland Browns,Cleveland Browns,11.0,5.0,0.0,0.688,357.0,310.0,47.0,2.9,-1.1,1.8,1.7,0.1
 nfl,1980,Houston Oilers,Tennessee Titans,11.0,5.0,0.0,0.688,295.0,251.0,44.0,2.8,-1.1,1.6,-2.7,4.4
 nfl,1980,Pittsburgh Steelers,Pittsburgh Steelers,9.0,7.0,0.0,0.563,352.0,313.0,39.0,2.4,-0.2,2.3,2.4,-0.1
-nfl,1980,Cincinnati Bengals,Cincinatti Bengals,6.0,10.0,0.0,0.375,244.0,312.0,-68.0,-4.3,0.6,-3.7,-4.5,0.8
+nfl,1980,Cincinnati Bengals,Cincinnati Bengals,6.0,10.0,0.0,0.375,244.0,312.0,-68.0,-4.3,0.6,-3.7,-4.5,0.8
 nfl,1980,San Diego Chargers,Los Angeles Chargers,11.0,5.0,0.0,0.688,418.0,327.0,91.0,5.7,0.4,6.0,6.5,-0.4
 nfl,1980,Oakland Raiders,Las Vegas Raiders,11.0,5.0,0.0,0.688,364.0,306.0,58.0,3.6,0.6,4.2,2.9,1.3
 nfl,1980,Kansas City Chiefs,Kansas City Chiefs,8.0,8.0,0.0,0.5,319.0,336.0,-17.0,-1.1,0.6,-0.5,-0.8,0.3
@@ -1057,7 +1057,7 @@ nfl,1981,New York Jets,New York Jets,10.0,5.0,1.0,0.656,355.0,287.0,68.0,4.3,-2.
 nfl,1981,Buffalo Bills,Buffalo Bills,10.0,6.0,0.0,0.625,311.0,276.0,35.0,2.2,-0.9,1.3,-2.5,3.9
 nfl,1981,Baltimore Colts,Indianapolis Colts,2.0,14.0,0.0,0.125,259.0,533.0,-274.0,-17.1,1.3,-15.8,-3.8,-12.0
 nfl,1981,New England Patriots,New England Patriots,2.0,14.0,0.0,0.125,322.0,370.0,-48.0,-3.0,-0.7,-3.7,-0.6,-3.1
-nfl,1981,Cincinnati Bengals,Cincinatti Bengals,12.0,4.0,0.0,0.75,421.0,304.0,117.0,7.3,-1.8,5.5,4.5,1.0
+nfl,1981,Cincinnati Bengals,Cincinnati Bengals,12.0,4.0,0.0,0.75,421.0,304.0,117.0,7.3,-1.8,5.5,4.5,1.0
 nfl,1981,Pittsburgh Steelers,Pittsburgh Steelers,8.0,8.0,0.0,0.5,356.0,297.0,59.0,3.7,-1.0,2.7,1.2,1.5
 nfl,1981,Houston Oilers,Tennessee Titans,7.0,9.0,0.0,0.438,281.0,355.0,-74.0,-4.6,-0.1,-4.7,-3.1,-1.6
 nfl,1981,Cleveland Browns,Cleveland Browns,5.0,11.0,0.0,0.313,276.0,375.0,-99.0,-6.2,-0.3,-6.5,-4.1,-2.4
@@ -1085,7 +1085,7 @@ nfl,1982,New York Jets,New York Jets,6.0,3.0,0.0,0.667,245.0,166.0,79.0,8.8,1.7,
 nfl,1982,New England Patriots,New England Patriots,5.0,4.0,0.0,0.556,143.0,157.0,-14.0,-1.6,-0.8,-2.4,-3.7,1.3
 nfl,1982,Buffalo Bills,Buffalo Bills,4.0,5.0,0.0,0.444,150.0,154.0,-4.0,-0.4,1.9,1.5,-1.9,3.4
 nfl,1982,Baltimore Colts,Indianapolis Colts,0.0,8.0,1.0,0.056,113.0,236.0,-123.0,-13.7,4.8,-8.8,-6.1,-2.7
-nfl,1982,Cincinnati Bengals,Cincinatti Bengals,7.0,2.0,0.0,0.778,232.0,177.0,55.0,6.1,-2.5,3.6,3.5,0.2
+nfl,1982,Cincinnati Bengals,Cincinnati Bengals,7.0,2.0,0.0,0.778,232.0,177.0,55.0,6.1,-2.5,3.6,3.5,0.2
 nfl,1982,Pittsburgh Steelers,Pittsburgh Steelers,6.0,3.0,0.0,0.667,204.0,146.0,58.0,6.4,-1.3,5.2,3.4,1.8
 nfl,1982,Cleveland Browns,Cleveland Browns,4.0,5.0,0.0,0.444,140.0,182.0,-42.0,-4.7,1.2,-3.5,-5.0,1.5
 nfl,1982,Houston Oilers,Tennessee Titans,1.0,8.0,0.0,0.111,136.0,245.0,-109.0,-12.1,1.1,-11.0,-3.9,-7.1
@@ -1115,7 +1115,7 @@ nfl,1983,Baltimore Colts,Indianapolis Colts,7.0,9.0,0.0,0.438,264.0,354.0,-90.0,
 nfl,1983,New York Jets,New York Jets,7.0,9.0,0.0,0.438,313.0,331.0,-18.0,-1.1,-0.1,-1.2,-1.9,0.7
 nfl,1983,Pittsburgh Steelers,Pittsburgh Steelers,10.0,6.0,0.0,0.625,355.0,303.0,52.0,3.3,-3.3,-0.1,-1.2,1.1
 nfl,1983,Cleveland Browns,Cleveland Browns,9.0,7.0,0.0,0.563,356.0,342.0,14.0,0.9,-3.1,-2.2,-0.9,-1.3
-nfl,1983,Cincinnati Bengals,Cincinatti Bengals,7.0,9.0,0.0,0.438,346.0,302.0,44.0,2.8,-2.3,0.5,-1.2,1.7
+nfl,1983,Cincinnati Bengals,Cincinnati Bengals,7.0,9.0,0.0,0.438,346.0,302.0,44.0,2.8,-2.3,0.5,-1.2,1.7
 nfl,1983,Houston Oilers,Tennessee Titans,2.0,14.0,0.0,0.125,288.0,460.0,-172.0,-10.8,-0.8,-11.5,-3.7,-7.9
 nfl,1983,Los Angeles Raiders,Las Vegas Raiders,12.0,4.0,0.0,0.75,442.0,338.0,104.0,6.5,0.3,6.8,5.1,1.7
 nfl,1983,Seattle Seahawks,Seattle Seahawks,9.0,7.0,0.0,0.563,403.0,397.0,6.0,0.4,1.1,1.5,3.4,-2.0
@@ -1142,7 +1142,7 @@ nfl,1984,New York Jets,New York Jets,7.0,9.0,0.0,0.438,332.0,364.0,-32.0,-2.0,-2
 nfl,1984,Indianapolis Colts,Indianapolis Colts,4.0,12.0,0.0,0.25,239.0,414.0,-175.0,-10.9,-0.2,-11.1,-7.4,-3.7
 nfl,1984,Buffalo Bills,Buffalo Bills,2.0,14.0,0.0,0.125,250.0,454.0,-204.0,-12.8,0.7,-12.0,-5.3,-6.7
 nfl,1984,Pittsburgh Steelers,Pittsburgh Steelers,9.0,7.0,0.0,0.563,387.0,310.0,77.0,4.8,-1.6,3.3,2.4,0.9
-nfl,1984,Cincinnati Bengals,Cincinatti Bengals,8.0,8.0,0.0,0.5,339.0,339.0,0.0,0.0,-1.2,-1.2,-0.1,-1.0
+nfl,1984,Cincinnati Bengals,Cincinnati Bengals,8.0,8.0,0.0,0.5,339.0,339.0,0.0,0.0,-1.2,-1.2,-0.1,-1.0
 nfl,1984,Cleveland Browns,Cleveland Browns,5.0,11.0,0.0,0.313,250.0,297.0,-47.0,-2.9,-0.8,-3.8,-6.1,2.3
 nfl,1984,Houston Oilers,Tennessee Titans,3.0,13.0,0.0,0.188,240.0,437.0,-197.0,-12.3,0.3,-12.0,-5.9,-6.0
 nfl,1984,Denver Broncos,Denver Broncos,13.0,3.0,0.0,0.813,353.0,241.0,112.0,7.0,0.7,7.7,1.0,6.7
@@ -1170,7 +1170,7 @@ nfl,1985,New England Patriots,New England Patriots,11.0,5.0,,0.688,362.0,290.0,7
 nfl,1985,Indianapolis Colts,Indianapolis Colts,5.0,11.0,,0.313,320.0,386.0,-66.0,-4.1,1.5,-2.7,-0.3,-2.4
 nfl,1985,Buffalo Bills,Buffalo Bills,2.0,14.0,,0.125,200.0,381.0,-181.0,-11.3,1.5,-9.8,-9.5,-0.2
 nfl,1985,Cleveland Browns,Cleveland Browns,8.0,8.0,,0.5,287.0,294.0,-7.0,-0.4,-0.8,-1.3,-4.7,3.4
-nfl,1985,Cincinnati Bengals,Cincinatti Bengals,7.0,9.0,,0.438,441.0,437.0,4.0,0.3,-0.9,-0.7,6.2,-6.9
+nfl,1985,Cincinnati Bengals,Cincinnati Bengals,7.0,9.0,,0.438,441.0,437.0,4.0,0.3,-0.9,-0.7,6.2,-6.9
 nfl,1985,Pittsburgh Steelers,Pittsburgh Steelers,7.0,9.0,,0.438,379.0,355.0,24.0,1.5,-2.0,-0.5,0.6,-1.1
 nfl,1985,Houston Oilers,Tennessee Titans,5.0,11.0,,0.313,284.0,412.0,-128.0,-8.0,-0.9,-8.9,-4.9,-4.0
 nfl,1985,Los Angeles Raiders,Las Vegas Raiders,12.0,4.0,,0.75,354.0,308.0,46.0,2.9,1.5,4.3,0.7,3.7
@@ -1198,7 +1198,7 @@ nfl,1986,Miami Dolphins,Miami Dolphins,8.0,8.0,0.0,0.5,430.0,405.0,25.0,1.6,-1.1
 nfl,1986,Buffalo Bills,Buffalo Bills,4.0,12.0,0.0,0.25,287.0,348.0,-61.0,-3.8,-2.0,-5.8,-5.0,-0.8
 nfl,1986,Indianapolis Colts,Indianapolis Colts,3.0,13.0,0.0,0.188,229.0,400.0,-171.0,-10.7,0.3,-10.4,-6.6,-3.8
 nfl,1986,Cleveland Browns,Cleveland Browns,12.0,4.0,0.0,0.75,391.0,310.0,81.0,5.1,-1.4,3.6,2.9,0.7
-nfl,1986,Cincinnati Bengals,Cincinatti Bengals,10.0,6.0,0.0,0.625,409.0,394.0,15.0,0.9,0.5,1.5,5.7,-4.2
+nfl,1986,Cincinnati Bengals,Cincinnati Bengals,10.0,6.0,0.0,0.625,409.0,394.0,15.0,0.9,0.5,1.5,5.7,-4.2
 nfl,1986,Pittsburgh Steelers,Pittsburgh Steelers,6.0,10.0,0.0,0.375,307.0,336.0,-29.0,-1.8,0.9,-1.0,-1.3,0.3
 nfl,1986,Houston Oilers,Tennessee Titans,5.0,11.0,0.0,0.313,274.0,329.0,-55.0,-3.4,-0.5,-3.9,-4.4,0.4
 nfl,1986,Denver Broncos,Denver Broncos,11.0,5.0,0.0,0.688,378.0,327.0,51.0,3.2,2.0,5.2,3.4,1.8
@@ -1228,7 +1228,7 @@ nfl,1987,New York Jets,New York Jets,6.0,9.0,0.0,0.4,334.0,360.0,-26.0,-1.7,0.4,
 nfl,1987,Cleveland Browns,Cleveland Browns,10.0,5.0,0.0,0.667,390.0,239.0,151.0,10.1,0.7,10.8,5.3,5.5
 nfl,1987,Houston Oilers,Tennessee Titans,9.0,6.0,0.0,0.6,345.0,349.0,-4.0,-0.3,2.2,1.9,3.2,-1.2
 nfl,1987,Pittsburgh Steelers,Pittsburgh Steelers,8.0,7.0,0.0,0.533,285.0,299.0,-14.0,-0.9,1.6,0.7,-2.2,2.9
-nfl,1987,Cincinnati Bengals,Cincinatti Bengals,4.0,11.0,0.0,0.267,285.0,370.0,-85.0,-5.7,2.0,-3.7,-1.8,-1.9
+nfl,1987,Cincinnati Bengals,Cincinnati Bengals,4.0,11.0,0.0,0.267,285.0,370.0,-85.0,-5.7,2.0,-3.7,-1.8,-1.9
 nfl,1987,Denver Broncos,Denver Broncos,10.0,4.0,1.0,0.7,379.0,288.0,91.0,6.1,-1.9,4.1,3.2,0.9
 nfl,1987,Seattle Seahawks,Seattle Seahawks,9.0,6.0,0.0,0.6,371.0,314.0,57.0,3.8,-1.9,1.9,2.4,-0.4
 nfl,1987,San Diego Chargers,Los Angeles Chargers,8.0,7.0,0.0,0.533,253.0,317.0,-64.0,-4.3,0.5,-3.7,-4.3,0.5
@@ -1253,7 +1253,7 @@ nfl,1988,Indianapolis Colts,Indianapolis Colts,9.0,7.0,0.0,0.563,354.0,315.0,39.
 nfl,1988,New England Patriots,New England Patriots,9.0,7.0,0.0,0.563,250.0,284.0,-34.0,-2.1,2.0,-0.2,-4.5,4.4
 nfl,1988,New York Jets,New York Jets,8.0,7.0,1.0,0.531,372.0,354.0,18.0,1.1,0.3,1.4,3.7,-2.4
 nfl,1988,Miami Dolphins,Miami Dolphins,6.0,10.0,0.0,0.375,319.0,380.0,-61.0,-3.8,1.0,-2.8,1.0,-3.9
-nfl,1988,Cincinnati Bengals,Cincinatti Bengals,12.0,4.0,0.0,0.75,448.0,329.0,119.0,7.4,-1.3,6.1,7.1,-1.0
+nfl,1988,Cincinnati Bengals,Cincinnati Bengals,12.0,4.0,0.0,0.75,448.0,329.0,119.0,7.4,-1.3,6.1,7.1,-1.0
 nfl,1988,Cleveland Browns,Cleveland Browns,10.0,6.0,0.0,0.625,304.0,288.0,16.0,1.0,-0.5,0.5,-3.5,4.0
 nfl,1988,Houston Oilers,Tennessee Titans,10.0,6.0,0.0,0.625,424.0,365.0,59.0,3.7,-0.7,3.0,5.3,-2.3
 nfl,1988,Pittsburgh Steelers,Pittsburgh Steelers,5.0,11.0,0.0,0.313,336.0,421.0,-85.0,-5.3,0.0,-5.3,0.1,-5.5
@@ -1284,7 +1284,7 @@ nfl,1989,New York Jets,New York Jets,4.0,12.0,0.0,0.25,253.0,411.0,-158.0,-9.9,-
 nfl,1989,Cleveland Browns,Cleveland Browns,9.0,6.0,1.0,0.594,334.0,254.0,80.0,5.0,-0.6,4.4,-0.2,4.6
 nfl,1989,Houston Oilers,Tennessee Titans,9.0,7.0,0.0,0.563,365.0,412.0,-47.0,-2.9,0.4,-2.5,2.8,-5.3
 nfl,1989,Pittsburgh Steelers,Pittsburgh Steelers,9.0,7.0,0.0,0.563,265.0,326.0,-61.0,-3.8,0.1,-3.7,-4.3,0.6
-nfl,1989,Cincinnati Bengals,Cincinatti Bengals,8.0,8.0,0.0,0.5,404.0,285.0,119.0,7.4,-0.5,6.9,4.6,2.4
+nfl,1989,Cincinnati Bengals,Cincinnati Bengals,8.0,8.0,0.0,0.5,404.0,285.0,119.0,7.4,-0.5,6.9,4.6,2.4
 nfl,1989,Denver Broncos,Denver Broncos,11.0,5.0,0.0,0.688,362.0,226.0,136.0,8.5,0.8,9.3,3.7,5.7
 nfl,1989,Kansas City Chiefs,Kansas City Chiefs,8.0,7.0,1.0,0.531,318.0,286.0,32.0,2.0,0.0,2.0,-0.1,2.1
 nfl,1989,Los Angeles Raiders,Las Vegas Raiders,8.0,8.0,0.0,0.5,315.0,297.0,18.0,1.1,0.7,1.8,0.0,1.9
@@ -1309,7 +1309,7 @@ nfl,1990,Miami Dolphins,Miami Dolphins,12.0,4.0,,0.75,336.0,242.0,94.0,5.9,-1.2,
 nfl,1990,Indianapolis Colts,Indianapolis Colts,7.0,9.0,,0.438,281.0,353.0,-72.0,-4.5,0.6,-3.9,-2.7,-1.2
 nfl,1990,New York Jets,New York Jets,6.0,10.0,,0.375,295.0,345.0,-50.0,-3.1,-1.5,-4.6,-2.0,-2.6
 nfl,1990,New England Patriots,New England Patriots,1.0,15.0,,0.063,181.0,446.0,-265.0,-16.6,2.0,-14.6,-7.5,-7.1
-nfl,1990,Cincinnati Bengals,Cincinatti Bengals,9.0,7.0,,0.563,360.0,352.0,8.0,0.5,-1.6,-1.1,1.9,-3.0
+nfl,1990,Cincinnati Bengals,Cincinnati Bengals,9.0,7.0,,0.563,360.0,352.0,8.0,0.5,-1.6,-1.1,1.9,-3.0
 nfl,1990,Houston Oilers,Tennessee Titans,9.0,7.0,,0.563,405.0,307.0,98.0,6.1,-0.9,5.2,4.9,0.3
 nfl,1990,Pittsburgh Steelers,Pittsburgh Steelers,9.0,7.0,,0.563,292.0,240.0,52.0,3.3,-1.6,1.6,-3.4,5.0
 nfl,1990,Cleveland Browns,Cleveland Browns,3.0,13.0,,0.188,228.0,462.0,-234.0,-14.6,1.7,-13.0,-5.2,-7.8
@@ -1340,7 +1340,7 @@ nfl,1991,Indianapolis Colts,Indianapolis Colts,1.0,15.0,,0.063,143.0,381.0,-238.
 nfl,1991,Houston Oilers,Tennessee Titans,11.0,5.0,,0.688,386.0,251.0,135.0,8.4,-0.1,8.4,4.9,3.4
 nfl,1991,Pittsburgh Steelers,Pittsburgh Steelers,7.0,9.0,,0.438,292.0,344.0,-52.0,-3.3,0.3,-2.9,-0.8,-2.2
 nfl,1991,Cleveland Browns,Cleveland Browns,6.0,10.0,,0.375,293.0,298.0,-5.0,-0.3,0.0,-0.4,-0.7,0.4
-nfl,1991,Cincinnati Bengals,Cincinatti Bengals,3.0,13.0,,0.188,263.0,435.0,-172.0,-10.8,2.1,-8.7,-1.8,-6.9
+nfl,1991,Cincinnati Bengals,Cincinnati Bengals,3.0,13.0,,0.188,263.0,435.0,-172.0,-10.8,2.1,-8.7,-1.8,-6.9
 nfl,1991,Denver Broncos,Denver Broncos,12.0,4.0,,0.75,304.0,235.0,69.0,4.3,-0.9,3.4,0.3,3.1
 nfl,1991,Kansas City Chiefs,Kansas City Chiefs,10.0,6.0,,0.625,322.0,252.0,70.0,4.4,2.0,6.4,1.8,4.5
 nfl,1991,Los Angeles Raiders,Las Vegas Raiders,9.0,7.0,,0.563,298.0,297.0,1.0,0.1,1.3,1.4,0.3,1.1
@@ -1368,7 +1368,7 @@ nfl,1992,New England Patriots,New England Patriots,2.0,14.0,,0.125,205.0,363.0,-
 nfl,1992,Pittsburgh Steelers,Pittsburgh Steelers,11.0,5.0,,0.688,299.0,225.0,74.0,4.6,-1.0,3.6,-0.4,4.0
 nfl,1992,Houston Oilers,Tennessee Titans,10.0,6.0,,0.625,352.0,258.0,94.0,5.9,-0.3,5.5,3.0,2.6
 nfl,1992,Cleveland Browns,Cleveland Browns,7.0,9.0,,0.438,272.0,275.0,-3.0,-0.2,-0.8,-1.0,-2.0,1.0
-nfl,1992,Cincinnati Bengals,Cincinatti Bengals,5.0,11.0,,0.313,274.0,364.0,-90.0,-5.6,-1.0,-6.6,-0.9,-5.7
+nfl,1992,Cincinnati Bengals,Cincinnati Bengals,5.0,11.0,,0.313,274.0,364.0,-90.0,-5.6,-1.0,-6.6,-0.9,-5.7
 nfl,1992,San Diego Chargers,Los Angeles Chargers,11.0,5.0,,0.688,335.0,241.0,94.0,5.9,-2.8,3.1,1.9,1.3
 nfl,1992,Kansas City Chiefs,Kansas City Chiefs,10.0,6.0,,0.625,348.0,282.0,66.0,4.1,-0.7,3.4,3.7,-0.2
 nfl,1992,Denver Broncos,Denver Broncos,8.0,8.0,,0.5,262.0,329.0,-67.0,-4.2,0.8,-3.4,-1.4,-1.9
@@ -1396,7 +1396,7 @@ nfl,1993,Indianapolis Colts,Indianapolis Colts,4.0,12.0,,0.25,189.0,378.0,-189.0
 nfl,1993,Houston Oilers,Tennessee Titans,12.0,4.0,,0.75,368.0,238.0,130.0,8.1,-0.9,7.2,4.1,3.1
 nfl,1993,Pittsburgh Steelers,Pittsburgh Steelers,9.0,7.0,,0.563,308.0,281.0,27.0,1.7,-0.2,1.5,0.1,1.5
 nfl,1993,Cleveland Browns,Cleveland Browns,7.0,9.0,,0.438,304.0,307.0,-3.0,-0.2,-1.0,-1.2,-0.6,-0.6
-nfl,1993,Cincinnati Bengals,Cincinatti Bengals,3.0,13.0,,0.188,187.0,319.0,-132.0,-8.3,-0.2,-8.4,-7.4,-1.0
+nfl,1993,Cincinnati Bengals,Cincinnati Bengals,3.0,13.0,,0.188,187.0,319.0,-132.0,-8.3,-0.2,-8.4,-7.4,-1.0
 nfl,1993,Kansas City Chiefs,Kansas City Chiefs,11.0,5.0,,0.688,328.0,291.0,37.0,2.3,0.6,2.9,1.9,1.0
 nfl,1993,Los Angeles Raiders,Las Vegas Raiders,10.0,6.0,,0.625,306.0,326.0,-20.0,-1.3,0.6,-0.7,1.1,-1.7
 nfl,1993,Denver Broncos,Denver Broncos,9.0,7.0,,0.563,373.0,284.0,89.0,5.6,-0.5,5.0,4.6,0.4
@@ -1423,7 +1423,7 @@ nfl,1994,Buffalo Bills,Buffalo Bills,7.0,9.0,,0.438,340.0,356.0,-16.0,-1.0,0.8,-
 nfl,1994,New York Jets,New York Jets,6.0,10.0,,0.375,264.0,320.0,-56.0,-3.5,1.3,-2.2,-3.7,1.5
 nfl,1994,Pittsburgh Steelers,Pittsburgh Steelers,12.0,4.0,,0.75,316.0,234.0,82.0,5.1,-0.4,4.7,-0.2,5.0
 nfl,1994,Cleveland Browns,Cleveland Browns,11.0,5.0,,0.688,340.0,204.0,136.0,8.5,-1.2,7.3,1.2,6.1
-nfl,1994,Cincinnati Bengals,Cincinatti Bengals,3.0,13.0,,0.188,276.0,406.0,-130.0,-8.1,1.2,-6.9,-1.6,-5.4
+nfl,1994,Cincinnati Bengals,Cincinnati Bengals,3.0,13.0,,0.188,276.0,406.0,-130.0,-8.1,1.2,-6.9,-1.6,-5.4
 nfl,1994,Houston Oilers,Tennessee Titans,2.0,14.0,,0.125,226.0,352.0,-126.0,-7.9,0.6,-7.3,-4.7,-2.6
 nfl,1994,San Diego Chargers,Los Angeles Chargers,11.0,5.0,,0.688,381.0,306.0,75.0,4.7,-1.1,3.6,2.9,0.7
 nfl,1994,Kansas City Chiefs,Kansas City Chiefs,9.0,7.0,,0.563,319.0,298.0,21.0,1.3,-0.4,0.9,-1.3,2.1
@@ -1451,7 +1451,7 @@ nfl,1995,Miami Dolphins,Miami Dolphins,9.0,7.0,,0.563,398.0,332.0,66.0,4.1,-1.4,
 nfl,1995,New England Patriots,New England Patriots,6.0,10.0,,0.375,294.0,377.0,-83.0,-5.2,-0.2,-5.4,-2.8,-2.6
 nfl,1995,New York Jets,New York Jets,3.0,13.0,,0.188,233.0,384.0,-151.0,-9.4,-1.7,-11.2,-7.9,-3.3
 nfl,1995,Pittsburgh Steelers,Pittsburgh Steelers,11.0,5.0,,0.688,407.0,327.0,80.0,5.0,-0.4,4.6,3.4,1.2
-nfl,1995,Cincinnati Bengals,Cincinatti Bengals,7.0,9.0,,0.438,349.0,374.0,-25.0,-1.6,-0.2,-1.7,0.1,-1.9
+nfl,1995,Cincinnati Bengals,Cincinnati Bengals,7.0,9.0,,0.438,349.0,374.0,-25.0,-1.6,-0.2,-1.7,0.1,-1.9
 nfl,1995,Houston Oilers,Tennessee Titans,7.0,9.0,,0.438,348.0,324.0,24.0,1.5,-0.7,0.8,-0.1,0.9
 nfl,1995,Cleveland Browns,Cleveland Browns,5.0,11.0,,0.313,289.0,356.0,-67.0,-4.2,0.4,-3.8,-3.2,-0.6
 nfl,1995,Jacksonville Jaguars,Jacksonville Jaguars,4.0,12.0,,0.25,275.0,404.0,-129.0,-8.1,0.0,-8.1,-4.4,-3.7
@@ -1482,7 +1482,7 @@ nfl,1996,Miami Dolphins,Miami Dolphins,8.0,8.0,,0.5,339.0,325.0,14.0,0.9,-0.6,0.
 nfl,1996,New York Jets,New York Jets,1.0,15.0,,0.063,279.0,454.0,-175.0,-10.9,0.8,-10.1,-2.5,-7.6
 nfl,1996,Pittsburgh Steelers,Pittsburgh Steelers,10.0,6.0,,0.625,344.0,257.0,87.0,5.4,-0.3,5.2,0.0,5.1
 nfl,1996,Jacksonville Jaguars,Jacksonville Jaguars,9.0,7.0,,0.563,325.0,335.0,-10.0,-0.6,-0.9,-1.5,-1.6,0.1
-nfl,1996,Cincinnati Bengals,Cincinatti Bengals,8.0,8.0,,0.5,372.0,369.0,3.0,0.2,-0.3,-0.1,2.5,-2.6
+nfl,1996,Cincinnati Bengals,Cincinnati Bengals,8.0,8.0,,0.5,372.0,369.0,3.0,0.2,-0.3,-0.1,2.5,-2.6
 nfl,1996,Houston Oilers,Tennessee Titans,8.0,8.0,,0.5,345.0,319.0,26.0,1.6,-0.7,1.0,0.1,0.8
 nfl,1996,Baltimore Ravens,Baltimore Ravens,4.0,12.0,,0.25,371.0,441.0,-70.0,-4.4,1.4,-2.9,3.9,-6.8
 nfl,1996,Denver Broncos,Denver Broncos,13.0,3.0,,0.813,391.0,275.0,116.0,7.3,0.3,7.6,3.7,3.9
@@ -1513,7 +1513,7 @@ nfl,1997,Indianapolis Colts,Indianapolis Colts,3.0,13.0,0.0,0.188,313.0,401.0,-8
 nfl,1997,Pittsburgh Steelers,Pittsburgh Steelers,11.0,5.0,0.0,0.688,372.0,307.0,65.0,4.1,1.3,5.3,2.7,2.6
 nfl,1997,Jacksonville Jaguars,Jacksonville Jaguars,11.0,5.0,0.0,0.688,394.0,318.0,76.0,4.8,0.7,5.5,4.4,1.0
 nfl,1997,Tennessee Oilers,Tennessee Titans,8.0,8.0,0.0,0.5,333.0,310.0,23.0,1.4,0.2,1.7,-0.3,1.9
-nfl,1997,Cincinnati Bengals,Cincinatti Bengals,7.0,9.0,0.0,0.438,355.0,405.0,-50.0,-3.1,1.0,-2.2,1.8,-4.0
+nfl,1997,Cincinnati Bengals,Cincinnati Bengals,7.0,9.0,0.0,0.438,355.0,405.0,-50.0,-3.1,1.0,-2.2,1.8,-4.0
 nfl,1997,Baltimore Ravens,Baltimore Ravens,6.0,9.0,1.0,0.406,326.0,345.0,-19.0,-1.2,0.6,-0.6,-0.4,-0.2
 nfl,1997,Kansas City Chiefs,Kansas City Chiefs,13.0,3.0,0.0,0.813,375.0,232.0,143.0,8.9,-0.5,8.4,1.8,6.6
 nfl,1997,Denver Broncos,Denver Broncos,12.0,4.0,0.0,0.75,472.0,287.0,185.0,11.6,-0.9,10.7,8.1,2.6
@@ -1544,7 +1544,7 @@ nfl,1998,Jacksonville Jaguars,Jacksonville Jaguars,11.0,5.0,,0.688,392.0,338.0,5
 nfl,1998,Tennessee Oilers,Tennessee Titans,8.0,8.0,,0.5,330.0,320.0,10.0,0.6,-0.6,0.0,-0.5,0.5
 nfl,1998,Pittsburgh Steelers,Pittsburgh Steelers,7.0,9.0,,0.438,263.0,303.0,-40.0,-2.5,-1.3,-3.8,-5.1,1.3
 nfl,1998,Baltimore Ravens,Baltimore Ravens,6.0,10.0,,0.375,269.0,335.0,-66.0,-4.1,-1.3,-5.4,-5.2,-0.2
-nfl,1998,Cincinnati Bengals,Cincinatti Bengals,3.0,13.0,,0.188,268.0,452.0,-184.0,-11.5,0.5,-11.0,-4.5,-6.5
+nfl,1998,Cincinnati Bengals,Cincinnati Bengals,3.0,13.0,,0.188,268.0,452.0,-184.0,-11.5,0.5,-11.0,-4.5,-6.5
 nfl,1998,Denver Broncos,Denver Broncos,14.0,2.0,,0.875,501.0,309.0,192.0,12.0,-3.1,8.9,9.5,-0.6
 nfl,1998,Oakland Raiders,Las Vegas Raiders,8.0,8.0,,0.5,288.0,356.0,-68.0,-4.3,-1.4,-5.6,-4.1,-1.5
 nfl,1998,Seattle Seahawks,Seattle Seahawks,8.0,8.0,,0.5,372.0,310.0,62.0,3.9,-2.4,1.5,0.9,0.6
@@ -1574,7 +1574,7 @@ nfl,1999,Jacksonville Jaguars,Jacksonville Jaguars,14.0,2.0,,0.875,396.0,217.0,1
 nfl,1999,Tennessee Titans,Tennessee Titans,13.0,3.0,,0.813,392.0,324.0,68.0,4.3,-3.2,1.0,2.0,-1.0
 nfl,1999,Baltimore Ravens,Baltimore Ravens,8.0,8.0,,0.5,324.0,277.0,47.0,2.9,-2.0,0.9,-1.6,2.5
 nfl,1999,Pittsburgh Steelers,Pittsburgh Steelers,6.0,10.0,,0.375,317.0,320.0,-3.0,-0.2,-2.2,-2.4,-2.2,-0.2
-nfl,1999,Cincinnati Bengals,Cincinatti Bengals,4.0,12.0,,0.25,283.0,460.0,-177.0,-11.1,-0.5,-11.5,-3.3,-8.2
+nfl,1999,Cincinnati Bengals,Cincinnati Bengals,4.0,12.0,,0.25,283.0,460.0,-177.0,-11.1,-0.5,-11.5,-3.3,-8.2
 nfl,1999,Cleveland Browns,Cleveland Browns,2.0,14.0,,0.125,217.0,437.0,-220.0,-13.8,-0.3,-14.1,-7.6,-6.5
 nfl,1999,Seattle Seahawks,Seattle Seahawks,9.0,7.0,,0.563,338.0,298.0,40.0,2.5,2.0,4.5,1.9,2.6
 nfl,1999,Kansas City Chiefs,Kansas City Chiefs,9.0,7.0,,0.563,390.0,322.0,68.0,4.3,2.6,6.8,5.5,1.3
@@ -1605,7 +1605,7 @@ nfl,2000,Tennessee Titans,Tennessee Titans,13.0,3.0,,0.813,346.0,191.0,155.0,9.7
 nfl,2000,Baltimore Ravens,Baltimore Ravens,12.0,4.0,,0.75,333.0,165.0,168.0,10.5,-2.5,8.0,0.0,8.0
 nfl,2000,Pittsburgh Steelers,Pittsburgh Steelers,9.0,7.0,,0.563,321.0,255.0,66.0,4.1,-0.2,3.9,0.6,3.3
 nfl,2000,Jacksonville Jaguars,Jacksonville Jaguars,7.0,9.0,,0.438,367.0,327.0,40.0,2.5,-1.4,1.1,3.2,-2.1
-nfl,2000,Cincinnati Bengals,Cincinatti Bengals,4.0,12.0,,0.25,185.0,359.0,-174.0,-10.9,0.4,-10.5,-8.1,-2.4
+nfl,2000,Cincinnati Bengals,Cincinnati Bengals,4.0,12.0,,0.25,185.0,359.0,-174.0,-10.9,0.4,-10.5,-8.1,-2.4
 nfl,2000,Cleveland Browns,Cleveland Browns,3.0,13.0,,0.188,161.0,419.0,-258.0,-16.1,1.5,-14.6,-9.1,-5.5
 nfl,2000,Oakland Raiders,Las Vegas Raiders,12.0,4.0,,0.75,479.0,299.0,180.0,11.3,-1.5,9.7,8.0,1.8
 nfl,2000,Denver Broncos,Denver Broncos,11.0,5.0,,0.688,485.0,369.0,116.0,7.3,-2.2,5.0,7.8,-2.7
@@ -1637,7 +1637,7 @@ nfl,2001,Baltimore Ravens,Baltimore Ravens,10.0,6.0,,0.625,303.0,265.0,38.0,2.4,
 nfl,2001,Cleveland Browns,Cleveland Browns,7.0,9.0,,0.438,285.0,319.0,-34.0,-2.1,1.3,-0.8,-0.9,0.1
 nfl,2001,Tennessee Titans,Tennessee Titans,7.0,9.0,,0.438,336.0,388.0,-52.0,-3.3,1.2,-2.0,2.4,-4.4
 nfl,2001,Jacksonville Jaguars,Jacksonville Jaguars,6.0,10.0,,0.375,294.0,286.0,8.0,0.5,0.4,0.9,-1.1,2.0
-nfl,2001,Cincinnati Bengals,Cincinatti Bengals,6.0,10.0,,0.375,226.0,309.0,-83.0,-5.2,1.7,-3.5,-4.5,1.0
+nfl,2001,Cincinnati Bengals,Cincinnati Bengals,6.0,10.0,,0.375,226.0,309.0,-83.0,-5.2,1.7,-3.5,-4.5,1.0
 nfl,2001,Oakland Raiders,Las Vegas Raiders,10.0,6.0,,0.625,399.0,327.0,72.0,4.5,-0.9,3.6,4.0,-0.4
 nfl,2001,Seattle Seahawks,Seattle Seahawks,9.0,7.0,,0.563,301.0,324.0,-23.0,-1.4,-0.4,-1.9,-1.4,-0.4
 nfl,2001,Denver Broncos,Denver Broncos,8.0,8.0,,0.5,340.0,339.0,1.0,0.1,-0.5,-0.5,0.5,-1.0
@@ -1666,7 +1666,7 @@ nfl,2002,Buffalo Bills,Buffalo Bills,8.0,8.0,0.0,0.5,379.0,397.0,-18.0,-1.1,0.9,
 nfl,2002,Pittsburgh Steelers,Pittsburgh Steelers,10.0,5.0,1.0,0.656,390.0,345.0,45.0,2.8,-0.1,2.7,3.1,-0.4
 nfl,2002,Cleveland Browns,Cleveland Browns,9.0,7.0,0.0,0.563,344.0,320.0,24.0,1.5,-0.3,1.2,-0.4,1.7
 nfl,2002,Baltimore Ravens,Baltimore Ravens,7.0,9.0,0.0,0.438,316.0,354.0,-38.0,-2.4,0.3,-2.1,-1.5,-0.6
-nfl,2002,Cincinnati Bengals,Cincinatti Bengals,2.0,14.0,0.0,0.125,279.0,456.0,-177.0,-11.1,0.6,-10.5,-3.6,-6.9
+nfl,2002,Cincinnati Bengals,Cincinnati Bengals,2.0,14.0,0.0,0.125,279.0,456.0,-177.0,-11.1,0.6,-10.5,-3.6,-6.9
 nfl,2002,Tennessee Titans,Tennessee Titans,11.0,5.0,0.0,0.688,367.0,324.0,43.0,2.7,-0.9,1.8,1.6,0.1
 nfl,2002,Indianapolis Colts,Indianapolis Colts,10.0,6.0,0.0,0.625,349.0,313.0,36.0,2.3,-1.1,1.2,0.4,0.7
 nfl,2002,Jacksonville Jaguars,Jacksonville Jaguars,6.0,10.0,0.0,0.375,328.0,315.0,13.0,0.8,-1.0,-0.2,-1.3,1.1
@@ -1696,7 +1696,7 @@ nfl,2003,Miami Dolphins,Miami Dolphins,10.0,6.0,,0.625,311.0,261.0,50.0,3.1,0.3,
 nfl,2003,Buffalo Bills,Buffalo Bills,6.0,10.0,,0.375,243.0,279.0,-36.0,-2.3,1.3,-1.0,-5.0,4.0
 nfl,2003,New York Jets,New York Jets,6.0,10.0,,0.375,283.0,299.0,-16.0,-1.0,0.4,-0.6,-1.9,1.3
 nfl,2003,Baltimore Ravens,Baltimore Ravens,10.0,6.0,,0.625,391.0,281.0,110.0,6.9,-0.6,6.3,3.3,3.0
-nfl,2003,Cincinnati Bengals,Cincinatti Bengals,8.0,8.0,,0.5,346.0,384.0,-38.0,-2.4,0.0,-2.4,1.1,-3.5
+nfl,2003,Cincinnati Bengals,Cincinnati Bengals,8.0,8.0,,0.5,346.0,384.0,-38.0,-2.4,0.0,-2.4,1.1,-3.5
 nfl,2003,Pittsburgh Steelers,Pittsburgh Steelers,6.0,10.0,,0.375,300.0,327.0,-27.0,-1.7,0.6,-1.1,-2.5,1.4
 nfl,2003,Cleveland Browns,Cleveland Browns,5.0,11.0,,0.313,254.0,322.0,-68.0,-4.3,1.3,-2.9,-5.3,2.4
 nfl,2003,Indianapolis Colts,Indianapolis Colts,12.0,4.0,,0.75,447.0,336.0,111.0,6.9,0.0,7.0,8.2,-1.2
@@ -1729,7 +1729,7 @@ nfl,2004,Buffalo Bills,Buffalo Bills,9.0,7.0,,0.563,395.0,284.0,111.0,6.9,1.1,8.
 nfl,2004,Miami Dolphins,Miami Dolphins,4.0,12.0,,0.25,275.0,354.0,-79.0,-4.9,2.7,-2.2,-2.7,0.5
 nfl,2004,Pittsburgh Steelers,Pittsburgh Steelers,15.0,1.0,,0.938,372.0,251.0,121.0,7.6,1.4,9.0,3.4,5.6
 nfl,2004,Baltimore Ravens,Baltimore Ravens,9.0,7.0,,0.563,317.0,268.0,49.0,3.1,3.1,6.1,-0.6,6.8
-nfl,2004,Cincinnati Bengals,Cincinatti Bengals,8.0,8.0,,0.5,374.0,372.0,2.0,0.1,2.5,2.7,4.3,-1.6
+nfl,2004,Cincinnati Bengals,Cincinnati Bengals,8.0,8.0,,0.5,374.0,372.0,2.0,0.1,2.5,2.7,4.3,-1.6
 nfl,2004,Cleveland Browns,Cleveland Browns,4.0,12.0,,0.25,276.0,390.0,-114.0,-7.1,3.7,-3.4,-1.5,-1.9
 nfl,2004,Indianapolis Colts,Indianapolis Colts,12.0,4.0,,0.75,522.0,351.0,171.0,10.7,0.7,11.4,11.7,-0.3
 nfl,2004,Jacksonville Jaguars,Jacksonville Jaguars,9.0,7.0,,0.563,261.0,280.0,-19.0,-1.2,1.9,0.8,-5.7,6.4
@@ -1759,7 +1759,7 @@ nfl,2005,New England Patriots,New England Patriots,10.0,6.0,,0.625,379.0,338.0,4
 nfl,2005,Miami Dolphins,Miami Dolphins,9.0,7.0,,0.563,318.0,317.0,1.0,0.1,-0.8,-0.8,-1.1,0.3
 nfl,2005,Buffalo Bills,Buffalo Bills,5.0,11.0,,0.313,271.0,367.0,-96.0,-6.0,0.2,-5.8,-4.0,-1.8
 nfl,2005,New York Jets,New York Jets,4.0,12.0,,0.25,240.0,355.0,-115.0,-7.2,0.8,-6.4,-5.2,-1.2
-nfl,2005,Cincinnati Bengals,Cincinatti Bengals,11.0,5.0,,0.688,421.0,350.0,71.0,4.4,-0.6,3.8,6.5,-2.7
+nfl,2005,Cincinnati Bengals,Cincinnati Bengals,11.0,5.0,,0.688,421.0,350.0,71.0,4.4,-0.6,3.8,6.5,-2.7
 nfl,2005,Pittsburgh Steelers,Pittsburgh Steelers,11.0,5.0,,0.688,389.0,258.0,131.0,8.2,-0.4,7.8,3.8,4.0
 nfl,2005,Baltimore Ravens,Baltimore Ravens,6.0,10.0,,0.375,265.0,299.0,-34.0,-2.1,0.3,-1.8,-3.5,1.7
 nfl,2005,Cleveland Browns,Cleveland Browns,6.0,10.0,,0.375,232.0,301.0,-69.0,-4.3,0.1,-4.2,-6.0,1.7
@@ -1792,7 +1792,7 @@ nfl,2006,New York Jets,New York Jets,10.0,6.0,,0.625,316.0,295.0,21.0,1.3,0.7,2.
 nfl,2006,Buffalo Bills,Buffalo Bills,7.0,9.0,,0.438,300.0,311.0,-11.0,-0.7,2.9,2.2,-0.2,2.4
 nfl,2006,Miami Dolphins,Miami Dolphins,6.0,10.0,,0.375,260.0,283.0,-23.0,-1.4,2.1,0.7,-3.3,4.0
 nfl,2006,Baltimore Ravens,Baltimore Ravens,13.0,3.0,,0.813,353.0,201.0,152.0,9.5,-0.2,9.3,1.5,7.8
-nfl,2006,Cincinnati Bengals,Cincinatti Bengals,8.0,8.0,,0.5,373.0,331.0,42.0,2.6,1.5,4.1,4.0,0.0
+nfl,2006,Cincinnati Bengals,Cincinnati Bengals,8.0,8.0,,0.5,373.0,331.0,42.0,2.6,1.5,4.1,4.0,0.0
 nfl,2006,Pittsburgh Steelers,Pittsburgh Steelers,8.0,8.0,,0.5,353.0,315.0,38.0,2.4,1.0,3.4,3.0,0.4
 nfl,2006,Cleveland Browns,Cleveland Browns,4.0,12.0,,0.25,238.0,356.0,-118.0,-7.4,1.5,-5.8,-4.5,-1.3
 nfl,2006,Indianapolis Colts,Indianapolis Colts,12.0,4.0,,0.75,427.0,360.0,67.0,4.2,1.7,5.9,6.9,-1.1
@@ -1825,7 +1825,7 @@ nfl,2007,New York Jets,New York Jets,4.0,12.0,,0.25,268.0,355.0,-87.0,-5.4,1.7,-
 nfl,2007,Miami Dolphins,Miami Dolphins,1.0,15.0,,0.063,267.0,437.0,-170.0,-10.6,2.3,-8.4,-4.1,-4.2
 nfl,2007,Pittsburgh Steelers,Pittsburgh Steelers,10.0,6.0,,0.625,393.0,269.0,124.0,7.8,-2.5,5.2,0.9,4.3
 nfl,2007,Cleveland Browns,Cleveland Browns,10.0,6.0,,0.625,402.0,382.0,20.0,1.3,-2.3,-1.1,2.2,-3.3
-nfl,2007,Cincinnati Bengals,Cincinatti Bengals,7.0,9.0,,0.438,380.0,385.0,-5.0,-0.3,-2.1,-2.4,1.6,-4.0
+nfl,2007,Cincinnati Bengals,Cincinnati Bengals,7.0,9.0,,0.438,380.0,385.0,-5.0,-0.3,-2.1,-2.4,1.6,-4.0
 nfl,2007,Baltimore Ravens,Baltimore Ravens,5.0,11.0,,0.313,275.0,384.0,-109.0,-6.8,0.1,-6.7,-5.0,-1.8
 nfl,2007,Indianapolis Colts,Indianapolis Colts,13.0,3.0,,0.813,450.0,262.0,188.0,11.8,0.3,12.0,6.6,5.4
 nfl,2007,Jacksonville Jaguars,Jacksonville Jaguars,11.0,5.0,,0.688,411.0,304.0,107.0,6.7,0.1,6.8,4.8,2.0
@@ -1857,7 +1857,7 @@ nfl,2008,New York Jets,New York Jets,9.0,7.0,0.0,0.563,405.0,356.0,49.0,3.1,-2.8
 nfl,2008,Buffalo Bills,Buffalo Bills,7.0,9.0,0.0,0.438,336.0,342.0,-6.0,-0.4,-3.0,-3.3,-2.8,-0.6
 nfl,2008,Pittsburgh Steelers,Pittsburgh Steelers,12.0,4.0,0.0,0.75,347.0,223.0,124.0,7.8,2.0,9.8,1.6,8.2
 nfl,2008,Baltimore Ravens,Baltimore Ravens,11.0,5.0,0.0,0.688,385.0,244.0,141.0,8.8,1.0,9.8,4.2,5.6
-nfl,2008,Cincinnati Bengals,Cincinatti Bengals,4.0,11.0,1.0,0.281,204.0,364.0,-160.0,-10.0,3.0,-7.0,-6.9,-0.1
+nfl,2008,Cincinnati Bengals,Cincinnati Bengals,4.0,11.0,1.0,0.281,204.0,364.0,-160.0,-10.0,3.0,-7.0,-6.9,-0.1
 nfl,2008,Cleveland Browns,Cleveland Browns,4.0,12.0,0.0,0.25,232.0,350.0,-118.0,-7.4,2.7,-4.6,-5.2,0.6
 nfl,2008,Tennessee Titans,Tennessee Titans,13.0,3.0,0.0,0.813,375.0,234.0,141.0,8.8,0.1,8.9,1.5,7.5
 nfl,2008,Indianapolis Colts,Indianapolis Colts,12.0,4.0,0.0,0.75,377.0,298.0,79.0,4.9,1.6,6.5,2.6,3.9
@@ -1887,7 +1887,7 @@ nfl,2009,New England Patriots,New England Patriots,10.0,6.0,,0.625,427.0,285.0,1
 nfl,2009,New York Jets,New York Jets,9.0,7.0,,0.563,348.0,236.0,112.0,7.0,1.6,8.6,1.1,7.5
 nfl,2009,Miami Dolphins,Miami Dolphins,7.0,9.0,,0.438,360.0,390.0,-30.0,-1.9,3.6,1.7,2.9,-1.2
 nfl,2009,Buffalo Bills,Buffalo Bills,6.0,10.0,,0.375,258.0,326.0,-68.0,-4.3,2.4,-1.8,-4.5,2.7
-nfl,2009,Cincinnati Bengals,Cincinatti Bengals,10.0,6.0,,0.625,305.0,291.0,14.0,0.9,-0.2,0.7,-2.5,3.2
+nfl,2009,Cincinnati Bengals,Cincinnati Bengals,10.0,6.0,,0.625,305.0,291.0,14.0,0.9,-0.2,0.7,-2.5,3.2
 nfl,2009,Baltimore Ravens,Baltimore Ravens,9.0,7.0,,0.563,391.0,261.0,130.0,8.1,-0.7,7.5,2.6,4.9
 nfl,2009,Pittsburgh Steelers,Pittsburgh Steelers,9.0,7.0,,0.563,368.0,324.0,44.0,2.8,-1.1,1.7,1.0,0.7
 nfl,2009,Cleveland Browns,Cleveland Browns,5.0,11.0,,0.313,245.0,375.0,-130.0,-8.1,-0.3,-8.4,-6.0,-2.4
@@ -1922,7 +1922,7 @@ nfl,2010,Buffalo Bills,Buffalo Bills,4.0,12.0,,0.25,283.0,425.0,-142.0,-8.9,4.3,
 nfl,2010,Pittsburgh Steelers,Pittsburgh Steelers,12.0,4.0,,0.75,375.0,232.0,143.0,8.9,1.3,10.2,2.5,7.7
 nfl,2010,Baltimore Ravens,Baltimore Ravens,12.0,4.0,,0.75,357.0,270.0,87.0,5.4,1.0,6.4,0.9,5.5
 nfl,2010,Cleveland Browns,Cleveland Browns,5.0,11.0,,0.313,271.0,332.0,-61.0,-3.8,2.3,-1.5,-3.4,2.0
-nfl,2010,Cincinnati Bengals,Cincinatti Bengals,4.0,12.0,,0.25,322.0,395.0,-73.0,-4.6,3.1,-1.4,0.4,-1.9
+nfl,2010,Cincinnati Bengals,Cincinnati Bengals,4.0,12.0,,0.25,322.0,395.0,-73.0,-4.6,3.1,-1.4,0.4,-1.9
 nfl,2010,Indianapolis Colts,Indianapolis Colts,10.0,6.0,,0.625,435.0,388.0,47.0,2.9,-0.1,2.9,3.7,-0.9
 nfl,2010,Jacksonville Jaguars,Jacksonville Jaguars,8.0,8.0,,0.5,353.0,419.0,-66.0,-4.1,-0.4,-4.5,-1.2,-3.3
 nfl,2010,Houston Texans,Houston Texans,6.0,10.0,,0.375,390.0,427.0,-37.0,-2.3,0.5,-1.8,1.8,-3.7
@@ -1953,7 +1953,7 @@ nfl,2011,Miami Dolphins,Miami Dolphins,6.0,10.0,,0.375,329.0,313.0,16.0,1.0,-0.1
 nfl,2011,Buffalo Bills,Buffalo Bills,6.0,10.0,,0.375,372.0,434.0,-62.0,-3.9,0.5,-3.4,1.2,-4.5
 nfl,2011,Baltimore Ravens,Baltimore Ravens,12.0,4.0,,0.75,378.0,266.0,112.0,7.0,-0.9,6.1,2.6,3.5
 nfl,2011,Pittsburgh Steelers,Pittsburgh Steelers,12.0,4.0,,0.75,325.0,227.0,98.0,6.1,-0.8,5.3,-0.8,6.0
-nfl,2011,Cincinnati Bengals,Cincinatti Bengals,9.0,7.0,,0.563,344.0,323.0,21.0,1.3,-0.9,0.5,0.7,-0.2
+nfl,2011,Cincinnati Bengals,Cincinnati Bengals,9.0,7.0,,0.563,344.0,323.0,21.0,1.3,-0.9,0.5,0.7,-0.2
 nfl,2011,Cleveland Browns,Cleveland Browns,4.0,12.0,,0.25,218.0,307.0,-89.0,-5.6,0.2,-5.4,-7.2,1.8
 nfl,2011,Houston Texans,Houston Texans,10.0,6.0,,0.625,381.0,278.0,103.0,6.4,-1.9,4.5,1.4,3.2
 nfl,2011,Tennessee Titans,Tennessee Titans,9.0,7.0,,0.563,325.0,317.0,8.0,0.5,-1.5,-1.0,-2.2,1.2
@@ -1984,7 +1984,7 @@ nfl,2012,Miami Dolphins,Miami Dolphins,7.0,9.0,0.0,0.438,288.0,317.0,-29.0,-1.8,
 nfl,2012,New York Jets,New York Jets,6.0,10.0,0.0,0.375,281.0,375.0,-94.0,-5.9,0.0,-5.9,-5.1,-0.9
 nfl,2012,Buffalo Bills,Buffalo Bills,6.0,10.0,0.0,0.375,344.0,435.0,-91.0,-5.7,-1.0,-6.7,-0.9,-5.8
 nfl,2012,Baltimore Ravens,Baltimore Ravens,10.0,6.0,0.0,0.625,398.0,344.0,54.0,3.4,-0.5,2.9,1.9,1.0
-nfl,2012,Cincinnati Bengals,Cincinatti Bengals,10.0,6.0,0.0,0.625,391.0,320.0,71.0,4.4,-2.4,2.1,1.2,0.9
+nfl,2012,Cincinnati Bengals,Cincinnati Bengals,10.0,6.0,0.0,0.625,391.0,320.0,71.0,4.4,-2.4,2.1,1.2,0.9
 nfl,2012,Pittsburgh Steelers,Pittsburgh Steelers,8.0,8.0,0.0,0.5,336.0,314.0,22.0,1.4,-2.0,-0.7,-2.8,2.1
 nfl,2012,Cleveland Browns,Cleveland Browns,5.0,11.0,0.0,0.313,302.0,368.0,-66.0,-4.1,-1.2,-5.3,-4.6,-0.7
 nfl,2012,Houston Texans,Houston Texans,12.0,4.0,0.0,0.75,416.0,331.0,85.0,5.3,-1.8,3.5,1.8,1.7
@@ -2015,7 +2015,7 @@ nfl,2013,New England Patriots,New England Patriots,12.0,4.0,0.0,0.75,444.0,338.0
 nfl,2013,New York Jets,New York Jets,8.0,8.0,0.0,0.5,290.0,387.0,-97.0,-6.1,0.0,-6.1,-4.7,-1.4
 nfl,2013,Miami Dolphins,Miami Dolphins,8.0,8.0,0.0,0.5,317.0,335.0,-18.0,-1.1,0.3,-0.8,-2.9,2.1
 nfl,2013,Buffalo Bills,Buffalo Bills,6.0,10.0,0.0,0.375,339.0,388.0,-49.0,-3.1,-0.1,-3.2,-1.3,-1.9
-nfl,2013,Cincinnati Bengals,Cincinatti Bengals,11.0,5.0,0.0,0.688,430.0,305.0,125.0,7.8,-2.5,5.4,2.3,3.0
+nfl,2013,Cincinnati Bengals,Cincinnati Bengals,11.0,5.0,0.0,0.688,430.0,305.0,125.0,7.8,-2.5,5.4,2.3,3.0
 nfl,2013,Pittsburgh Steelers,Pittsburgh Steelers,8.0,8.0,0.0,0.5,379.0,370.0,9.0,0.6,-2.5,-2.0,-0.9,-1.0
 nfl,2013,Baltimore Ravens,Baltimore Ravens,8.0,8.0,0.0,0.5,320.0,352.0,-32.0,-2.0,-1.5,-3.5,-5.0,1.4
 nfl,2013,Cleveland Browns,Cleveland Browns,4.0,12.0,0.0,0.25,308.0,406.0,-98.0,-6.1,-1.6,-7.7,-4.8,-2.9
@@ -2048,7 +2048,7 @@ nfl,2014,Buffalo Bills,Buffalo Bills,9.0,7.0,0.0,0.563,343.0,289.0,54.0,3.4,1.6,
 nfl,2014,Miami Dolphins,Miami Dolphins,8.0,8.0,0.0,0.5,388.0,373.0,15.0,0.9,1.6,2.6,2.9,-0.4
 nfl,2014,New York Jets,New York Jets,4.0,12.0,0.0,0.25,283.0,401.0,-118.0,-7.4,2.3,-5.0,-4.0,-1.0
 nfl,2014,Pittsburgh Steelers,Pittsburgh Steelers,11.0,5.0,0.0,0.688,436.0,368.0,68.0,4.3,-2.0,2.2,4.4,-2.1
-nfl,2014,Cincinnati Bengals,Cincinatti Bengals,10.0,5.0,1.0,0.656,365.0,344.0,21.0,1.3,-0.6,0.7,-0.5,1.3
+nfl,2014,Cincinnati Bengals,Cincinnati Bengals,10.0,5.0,1.0,0.656,365.0,344.0,21.0,1.3,-0.6,0.7,-0.5,1.3
 nfl,2014,Baltimore Ravens,Baltimore Ravens,10.0,6.0,0.0,0.625,409.0,302.0,107.0,6.7,-2.1,4.6,1.8,2.8
 nfl,2014,Cleveland Browns,Cleveland Browns,7.0,9.0,0.0,0.438,299.0,337.0,-38.0,-2.4,-1.5,-3.9,-4.8,0.9
 nfl,2014,Indianapolis Colts,Indianapolis Colts,11.0,5.0,0.0,0.688,458.0,369.0,89.0,5.6,-1.1,4.4,5.2,-0.8
@@ -2079,7 +2079,7 @@ nfl,2015,New England Patriots,New England Patriots,12.0,4.0,,0.75,465.0,315.0,15
 nfl,2015,New York Jets,New York Jets,10.0,6.0,,0.625,387.0,314.0,73.0,4.6,-3.0,1.5,-0.5,2.0
 nfl,2015,Buffalo Bills,Buffalo Bills,8.0,8.0,,0.5,379.0,359.0,20.0,1.3,-1.2,0.0,0.3,-0.2
 nfl,2015,Miami Dolphins,Miami Dolphins,6.0,10.0,,0.375,310.0,389.0,-79.0,-4.9,-1.9,-6.8,-4.7,-2.2
-nfl,2015,Cincinnati Bengals,Cincinatti Bengals,12.0,4.0,,0.75,419.0,279.0,140.0,8.8,1.9,10.6,4.8,5.8
+nfl,2015,Cincinnati Bengals,Cincinnati Bengals,12.0,4.0,,0.75,419.0,279.0,140.0,8.8,1.9,10.6,4.8,5.8
 nfl,2015,Pittsburgh Steelers,Pittsburgh Steelers,10.0,6.0,,0.625,423.0,319.0,104.0,6.5,2.2,8.7,5.1,3.6
 nfl,2015,Baltimore Ravens,Baltimore Ravens,5.0,11.0,,0.313,328.0,401.0,-73.0,-4.6,2.6,-1.9,-0.7,-1.2
 nfl,2015,Cleveland Browns,Cleveland Browns,3.0,13.0,,0.188,278.0,432.0,-154.0,-9.6,3.5,-6.1,-3.2,-2.9
@@ -2113,7 +2113,7 @@ nfl,2016,Buffalo Bills,Buffalo Bills,7.0,9.0,0.0,0.438,399.0,378.0,21.0,1.3,-1.6
 nfl,2016,New York Jets,New York Jets,5.0,11.0,0.0,0.313,275.0,409.0,-134.0,-8.4,-0.1,-8.5,-5.5,-3.0
 nfl,2016,Pittsburgh Steelers,Pittsburgh Steelers,11.0,5.0,0.0,0.688,399.0,327.0,72.0,4.5,0.2,4.7,2.8,2.0
 nfl,2016,Baltimore Ravens,Baltimore Ravens,8.0,8.0,0.0,0.5,343.0,321.0,22.0,1.4,0.2,1.5,-1.1,2.6
-nfl,2016,Cincinnati Bengals,Cincinatti Bengals,6.0,9.0,1.0,0.406,325.0,315.0,10.0,0.6,0.4,1.0,-1.5,2.5
+nfl,2016,Cincinnati Bengals,Cincinnati Bengals,6.0,9.0,1.0,0.406,325.0,315.0,10.0,0.6,0.4,1.0,-1.5,2.5
 nfl,2016,Cleveland Browns,Cleveland Browns,1.0,15.0,0.0,0.063,264.0,452.0,-188.0,-11.8,1.7,-10.1,-5.2,-4.9
 nfl,2016,Houston Texans,Houston Texans,9.0,7.0,0.0,0.563,279.0,328.0,-49.0,-3.1,0.4,-2.6,-5.3,2.7
 nfl,2016,Tennessee Titans,Tennessee Titans,9.0,7.0,0.0,0.563,381.0,378.0,3.0,0.2,-1.2,-1.0,0.7,-1.7
@@ -2145,7 +2145,7 @@ nfl,2017,Miami Dolphins,Miami Dolphins,6.0,10.0,,0.375,281.0,393.0,-112.0,-7.0,0
 nfl,2017,New York Jets,New York Jets,5.0,11.0,,0.313,298.0,382.0,-84.0,-5.3,0.3,-4.9,-2.9,-2.1
 nfl,2017,Pittsburgh Steelers,Pittsburgh Steelers,13.0,3.0,,0.813,406.0,308.0,98.0,6.1,-1.1,5.0,3.2,1.8
 nfl,2017,Baltimore Ravens,Baltimore Ravens,9.0,7.0,,0.563,395.0,303.0,92.0,5.8,-2.4,3.4,2.2,1.2
-nfl,2017,Cincinnati Bengals,Cincinatti Bengals,7.0,9.0,,0.438,290.0,349.0,-59.0,-3.7,-1.3,-5.0,-4.1,-0.9
+nfl,2017,Cincinnati Bengals,Cincinnati Bengals,7.0,9.0,,0.438,290.0,349.0,-59.0,-3.7,-1.3,-5.0,-4.1,-0.9
 nfl,2017,Cleveland Browns,Cleveland Browns,0.0,16.0,,0.0,234.0,410.0,-176.0,-11.0,0.0,-11.0,-6.8,-4.1
 nfl,2017,Jacksonville Jaguars,Jacksonville Jaguars,10.0,6.0,,0.625,417.0,268.0,149.0,9.3,-2.8,6.5,3.0,3.6
 nfl,2017,Tennessee Titans,Tennessee Titans,9.0,7.0,,0.563,334.0,356.0,-22.0,-1.4,-2.1,-3.5,-2.0,-1.5
@@ -2178,7 +2178,7 @@ nfl,2018,New York Jets,New York Jets,4.0,12.0,0.0,0.25,333.0,441.0,-108.0,-6.8,-
 nfl,2018,Baltimore Ravens,Baltimore Ravens,10.0,6.0,0.0,0.625,389.0,287.0,102.0,6.4,0.6,7.0,0.6,6.4
 nfl,2018,Pittsburgh Steelers,Pittsburgh Steelers,9.0,6.0,1.0,0.594,428.0,360.0,68.0,4.3,1.3,5.6,3.9,1.7
 nfl,2018,Cleveland Browns,Cleveland Browns,7.0,8.0,1.0,0.469,359.0,392.0,-33.0,-2.1,1.7,-0.3,-1.0,0.6
-nfl,2018,Cincinnati Bengals,Cincinatti Bengals,6.0,10.0,0.0,0.375,368.0,455.0,-87.0,-5.4,2.0,-3.4,0.0,-3.4
+nfl,2018,Cincinnati Bengals,Cincinnati Bengals,6.0,10.0,0.0,0.375,368.0,455.0,-87.0,-5.4,2.0,-3.4,0.0,-3.4
 nfl,2018,Houston Texans,Houston Texans,11.0,5.0,0.0,0.688,402.0,316.0,86.0,5.4,-1.5,3.8,2.4,1.4
 nfl,2018,Indianapolis Colts,Indianapolis Colts,10.0,6.0,0.0,0.625,433.0,344.0,89.0,5.6,-2.2,3.4,3.9,-0.6
 nfl,2018,Tennessee Titans,Tennessee Titans,9.0,7.0,0.0,0.563,310.0,303.0,7.0,0.4,-0.2,0.2,-3.2,3.5
@@ -2210,7 +2210,7 @@ nfl,2019,Miami Dolphins,Miami Dolphins,5.0,11.0,0.0,0.313,306.0,494.0,-188.0,-11
 nfl,2019,Baltimore Ravens,Baltimore Ravens,14.0,2.0,0.0,0.875,531.0,282.0,249.0,15.6,0.1,15.6,11.0,4.7
 nfl,2019,Pittsburgh Steelers,Pittsburgh Steelers,8.0,8.0,0.0,0.5,289.0,303.0,-14.0,-0.9,1.2,0.3,-4.3,4.6
 nfl,2019,Cleveland Browns,Cleveland Browns,6.0,10.0,0.0,0.375,335.0,393.0,-58.0,-3.6,1.7,-1.9,-0.4,-1.5
-nfl,2019,Cincinnati Bengals,Cincinatti Bengals,2.0,14.0,0.0,0.125,279.0,420.0,-141.0,-8.8,1.5,-7.3,-4.4,-2.9
+nfl,2019,Cincinnati Bengals,Cincinnati Bengals,2.0,14.0,0.0,0.125,279.0,420.0,-141.0,-8.8,1.5,-7.3,-4.4,-2.9
 nfl,2019,Houston Texans,Houston Texans,10.0,6.0,0.0,0.625,378.0,385.0,-7.0,-0.4,1.0,0.5,1.0,-0.5
 nfl,2019,Tennessee Titans,Tennessee Titans,9.0,7.0,0.0,0.563,402.0,331.0,71.0,4.4,-1.0,3.4,1.8,1.7
 nfl,2019,Indianapolis Colts,Indianapolis Colts,7.0,9.0,0.0,0.438,361.0,373.0,-12.0,-0.8,-1.1,-1.8,-1.0,-0.8
@@ -2242,7 +2242,7 @@ nfl,2020,New York Jets,New York Jets,2.0,14.0,0.0,0.125,243.0,457.0,-214.0,-13.4
 nfl,2020,Pittsburgh Steelers,Pittsburgh Steelers,12.0,4.0,0.0,0.75,416.0,312.0,104.0,6.5,-1.8,4.7,0.3,4.4
 nfl,2020,Baltimore Ravens,Baltimore Ravens,11.0,5.0,0.0,0.688,468.0,303.0,165.0,10.3,-2.0,8.3,3.9,4.3
 nfl,2020,Cleveland Browns,Cleveland Browns,11.0,5.0,0.0,0.688,408.0,419.0,-11.0,-0.7,-1.9,-2.6,0.3,-2.8
-nfl,2020,Cincinnati Bengals,Cincinatti Bengals,4.0,11.0,1.0,0.281,311.0,424.0,-113.0,-7.1,-0.4,-7.5,-5.4,-2.1
+nfl,2020,Cincinnati Bengals,Cincinnati Bengals,4.0,11.0,1.0,0.281,311.0,424.0,-113.0,-7.1,-0.4,-7.5,-5.4,-2.1
 nfl,2020,Tennessee Titans,Tennessee Titans,11.0,5.0,0.0,0.688,491.0,439.0,52.0,3.3,-1.7,1.6,4.7,-3.1
 nfl,2020,Indianapolis Colts,Indianapolis Colts,11.0,5.0,0.0,0.688,451.0,362.0,89.0,5.6,-2.8,2.8,1.2,1.6
 nfl,2020,Houston Texans,Houston Texans,4.0,12.0,0.0,0.25,384.0,464.0,-80.0,-5.0,-0.5,-5.5,-1.4,-4.1
@@ -2271,7 +2271,7 @@ nfl,2021,Buffalo Bills,Buffalo Bills,11.0,6.0,0.0,0.647,483.0,289.0,194.0,11.4,-
 nfl,2021,New England Patriots,New England Patriots,10.0,7.0,0.0,0.588,462.0,303.0,159.0,9.4,-0.9,8.5,3.6,4.8
 nfl,2021,Miami Dolphins,Miami Dolphins,9.0,8.0,0.0,0.529,341.0,373.0,-32.0,-1.9,-0.8,-2.7,-3.1,0.3
 nfl,2021,New York Jets,New York Jets,4.0,13.0,0.0,0.235,310.0,504.0,-194.0,-11.4,1.0,-10.4,-3.6,-6.7
-nfl,2021,Cincinnati Bengals,Cincinatti Bengals,10.0,7.0,0.0,0.588,460.0,376.0,84.0,4.9,-1.9,3.1,3.4,-0.3
+nfl,2021,Cincinnati Bengals,Cincinnati Bengals,10.0,7.0,0.0,0.588,460.0,376.0,84.0,4.9,-1.9,3.1,3.4,-0.3
 nfl,2021,Pittsburgh Steelers,Pittsburgh Steelers,9.0,7.0,1.0,0.559,343.0,398.0,-55.0,-3.2,0.8,-2.5,-2.6,0.1
 nfl,2021,Cleveland Browns,Cleveland Browns,8.0,9.0,0.0,0.471,349.0,371.0,-22.0,-1.3,0.0,-1.3,-2.7,1.3
 nfl,2021,Baltimore Ravens,Baltimore Ravens,8.0,9.0,0.0,0.471,387.0,392.0,-5.0,-0.3,0.0,-0.3,-0.3,0.0
@@ -2303,7 +2303,7 @@ nfl,2022,Buffalo Bills,Buffalo Bills,13.0,3.0,0.0,0.813,455.0,286.0,169.0,10.6,0
 nfl,2022,Miami Dolphins,Miami Dolphins,9.0,8.0,0.0,0.529,397.0,399.0,-2.0,-0.1,2.0,1.8,2.7,-0.9
 nfl,2022,New England Patriots,New England Patriots,8.0,9.0,0.0,0.471,364.0,347.0,17.0,1.0,1.0,2.0,-0.3,2.3
 nfl,2022,New York Jets,New York Jets,7.0,10.0,0.0,0.412,296.0,316.0,-20.0,-1.2,2.0,0.8,-4.0,4.8
-nfl,2022,Cincinnati Bengals,Cincinatti Bengals,12.0,4.0,0.0,0.75,418.0,322.0,96.0,6.0,0.9,6.9,5.5,1.4
+nfl,2022,Cincinnati Bengals,Cincinnati Bengals,12.0,4.0,0.0,0.75,418.0,322.0,96.0,6.0,0.9,6.9,5.5,1.4
 nfl,2022,Baltimore Ravens,Baltimore Ravens,10.0,7.0,0.0,0.588,350.0,315.0,35.0,2.1,1.1,3.1,-0.2,3.4
 nfl,2022,Pittsburgh Steelers,Pittsburgh Steelers,9.0,8.0,0.0,0.529,308.0,346.0,-38.0,-2.2,1.5,-0.8,-3.0,2.3
 nfl,2022,Cleveland Browns,Cleveland Browns,7.0,10.0,0.0,0.412,361.0,381.0,-20.0,-1.2,1.1,-0.1,0.7,-0.9
@@ -2338,7 +2338,7 @@ nfl,2023,New England Patriots,New England Patriots,4.0,13.0,,0.235,236.0,366.0,-
 nfl,2023,Baltimore Ravens,Baltimore Ravens,13.0,4.0,,0.765,483.0,280.0,203.0,11.9,1.2,13.2,6.7,6.5
 nfl,2023,Cleveland Browns,Cleveland Browns,11.0,6.0,,0.647,396.0,362.0,34.0,2.0,1.3,3.3,2.4,0.9
 nfl,2023,Pittsburgh Steelers,Pittsburgh Steelers,10.0,7.0,,0.588,304.0,324.0,-20.0,-1.2,1.9,0.7,-3.0,3.7
-nfl,2023,Cincinnati Bengals,Cincinatti Bengals,9.0,8.0,,0.529,366.0,384.0,-18.0,-1.1,2.8,1.7,1.3,0.4
+nfl,2023,Cincinnati Bengals,Cincinnati Bengals,9.0,8.0,,0.529,366.0,384.0,-18.0,-1.1,2.8,1.7,1.3,0.4
 nfl,2023,Houston Texans,Houston Texans,10.0,7.0,,0.588,377.0,353.0,24.0,1.4,-1.0,0.4,0.3,0.1
 nfl,2023,Jacksonville Jaguars,Jacksonville Jaguars,9.0,8.0,,0.529,377.0,371.0,6.0,0.4,1.1,1.4,1.3,0.1
 nfl,2023,Indianapolis Colts,Indianapolis Colts,9.0,8.0,,0.529,396.0,415.0,-19.0,-1.1,-0.2,-1.3,2.4,-3.8
@@ -2369,7 +2369,7 @@ nfl,2024,New York Jets,New York Jets,5.0,12.0,,0.294,338.0,404.0,-66.0,-3.9,-0.5
 nfl,2024,New England Patriots,New England Patriots,4.0,13.0,,0.235,289.0,417.0,-128.0,-7.5,-0.6,-8.1,-6.2,-1.9
 nfl,2024,Baltimore Ravens,Baltimore Ravens,12.0,5.0,,0.706,518.0,361.0,157.0,9.2,0.6,9.9,8.0,1.9
 nfl,2024,Pittsburgh Steelers,Pittsburgh Steelers,10.0,7.0,,0.588,380.0,347.0,33.0,1.9,0.1,2.1,-0.7,2.8
-nfl,2024,Cincinnati Bengals,Cincinatti Bengals,9.0,8.0,,0.529,472.0,434.0,38.0,2.2,-0.8,1.4,5.0,-3.6
+nfl,2024,Cincinnati Bengals,Cincinnati Bengals,9.0,8.0,,0.529,472.0,434.0,38.0,2.2,-0.8,1.4,5.0,-3.6
 nfl,2024,Cleveland Browns,Cleveland Browns,3.0,14.0,,0.176,258.0,435.0,-177.0,-10.4,1.2,-9.2,-7.1,-2.1
 nfl,2024,Houston Texans,Houston Texans,10.0,7.0,,0.588,372.0,372.0,0.0,0.0,-0.7,-0.7,-1.5,0.8
 nfl,2024,Indianapolis Colts,Indianapolis Colts,8.0,9.0,,0.471,377.0,427.0,-50.0,-2.9,-0.7,-3.7,-0.5,-3.2
@@ -2401,7 +2401,7 @@ nfl,2025,Miami Dolphins,Miami Dolphins,4.0,7.0,0.0,0.364,226.0,269.0,-43.0,-3.9,
 nfl,2025,New York Jets,New York Jets,2.0,9.0,0.0,0.182,219.0,291.0,-72.0,-6.5,-1.6,-8.2,-4.8,-3.4
 nfl,2025,Pittsburgh Steelers,Pittsburgh Steelers,6.0,5.0,0.0,0.545,274.0,263.0,11.0,1.0,-1.5,-0.5,0.3,-0.8
 nfl,2025,Baltimore Ravens,Baltimore Ravens,6.0,6.0,0.0,0.5,289.0,293.0,-4.0,-0.3,-1.0,-1.3,0.8,-2.2
-nfl,2025,Cincinnati Bengals,Cincinatti Bengals,4.0,8.0,0.0,0.333,280.0,374.0,-94.0,-7.8,-0.4,-8.3,0.1,-8.4
+nfl,2025,Cincinnati Bengals,Cincinnati Bengals,4.0,8.0,0.0,0.333,280.0,374.0,-94.0,-7.8,-0.4,-8.3,0.1,-8.4
 nfl,2025,Cleveland Browns,Cleveland Browns,3.0,8.0,0.0,0.273,186.0,244.0,-58.0,-5.3,-2.2,-7.5,-7.5,0.0
 nfl,2025,Indianapolis Colts,Indianapolis Colts,8.0,3.0,0.0,0.727,341.0,229.0,112.0,10.2,-1.2,9.0,8.5,0.4
 nfl,2025,Jacksonville Jaguars,Jacksonville Jaguars,7.0,4.0,0.0,0.636,267.0,250.0,17.0,1.5,2.2,3.8,3.4,0.4
